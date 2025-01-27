@@ -1,22 +1,31 @@
 Areas:
  -- elemental based regions:
+
     -- water-based
-       -- culture: With a big population, they have a hierachy based on the characteristics of the amulet each person recieve.
-       -- water spirit is very selective and they are the one to give the person coming of age or birth the amulet and then the water people evaulate the amulet to determine the class.
+       -- culture: With a big population, they have a hierachy based on the characteristics of the amulet each person recieve. Class based structure, higher classes exist in the lower underwater fancy city, while lower classes exist in the upper docks/village
+       -- aesthetic: smoothnessis a motif: upper city docks are made of wood, made of a light wood and more open housing plans, lots of open windows and such. Water snakes its way around the houses and docking areas, making sprialesc tunnels and flowing waterfalls in air. Underwater city have more smooth amorphous housing plans, houses shaped like water droplets in a way, of smoothed down stone and with accents of light and dark blue. Purple is used in especially upper class living spaces, seens as a symmbol of wealth and culturally significant
+       -- water spirit is very selective and they are the one to give the person coming of age or birth the amulet and then the water people evaulate the amulet to determine the class. Water elemental snake/eel like, regal, majestic. all elementals are huge and semi transparent
+
     -- earth-based
-       -- culture: 
+       -- culture: hard working, meritocratic, mining, rougher outlook on life, you get what you deserve. value effort and what you bring to the table. Business oriented, a "what can i get out of this" kinda mindset when it comes to negotiations
        -- have a mutualistic relationship with fire. The fire provides resources to the earth and earth provides services/products to the fire people.
+       -- wealthy region, prosporous for most, 
+       -- aesthetic: brown, gold, green. overgrown trees and wood, houses of complex stone and minerals inspersed, large buildings, losts of gold accents in architecture. underground regions with winding roots and mining sites. farms, on and in hills. jewels inbedded in many places. Houses are squarish and blocky, roofs are either mostly flat or headed by the earth they were built into, such as a mountain or cliff. vines and greenery are abundant in overground areas, shadedd b large trees. A lot of bulk housing, seen as efficient
+
     -- fire(calm)-based in boreal forest with a volcano
         -- when you try to get fire spirit's piece, you need to be careful not to wake up because there might be consequences (i.e. volcano erupting, or the locals call somebody to stop you for your actions, damage reputation).
         -- cultural: pacifist, motto: "don't work too hard", mediator for conflicts, lack of industry (or less of a prominent industry), direct democracy, small population
-        -- 
+        -- aesthetic: warms cozy sttlment whose center is a dormant volcano, steam comes out of the top and shrouds the area in a gentle warmth. outside of the reach of its heat, theres a wide boreal forest. For trade and travel, people use torches lit by deeper parts inside the volcano itself, which keeps travellers warm on their way thru the forest
+
     -- air-based
        -- culture: care about destiny, world will arrive where it needs to, the outcome is predestined, 
        -- constantly moving nomads who help the player when their village is not doing well. They are given
-       --
-    -- earth-based
+       -- live off the land, experts at knowing wildlife and such, can make great makeshift housing, usually live in tents or other temporary housings, such as caves. THe society is very spread out among the lands, different groups of the original set of air peopls ancestors go to different areas, always inevitably able to meet up again at the same place and talk about the thing sthey found. led by a tailwind from the wind spirit itself.
 
-    --
+
+    -- everything city, is ruined and wasted away by now. no inhabitants
+       -- culture: eclectic, a multicultural society with many different perspectives. Ancient society, not as much is known about them, mainly known that it was a great empire that spanned much of the lands, and remnants of it can be foun din all of the elemental regions
+       -- aesthetic: white, platinumm and silver, accent colors
 
 
 Player:
