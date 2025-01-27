@@ -1,0 +1,46 @@
+Areas:
+ -- elemental based regions:
+    -- water-based
+       -- culture: With a big population, they have a hierachy based on the characteristics of the amulet each person recieve.
+       -- water spirit is very selective and they are the one to give the person coming of age or birth the amulet and then the water people evaulate the amulet to determine the class.
+    -- earth-based
+       -- culture: 
+       -- have a mutualistic relationship with fire. The fire provides resources to the earth and earth provides services/products to the fire people.
+    -- fire(calm)-based in boreal forest with a volcano
+        -- when you try to get fire spirit's piece, you need to be careful not to wake up because there might be consequences (i.e. volcano erupting, or the locals call somebody to stop you for your actions, damage reputation).
+        -- cultural: pacifist, motto: "don't work too hard", mediator for conflicts, lack of industry (or less of a prominent industry), direct democracy, small population
+        -- 
+    -- air-based
+       -- culture: 
+       -- constantly moving nomads who help the player when their village is not doing well. They are given 
+       --
+    --
+    --
+
+
+Player:
+ -- HP:
+    -- 
+
+
+Characters:
+ -- 
+ --
+ --
+ --
+
+
+Spirits:
+
+
+Technical:
+ -- movement: WASD
+    -- implement diagonal movement
+ -- Inventory: E key
+ -- Map: M key
+ -- Buff Up / Use potions: B key
+ -- Ride Mount: R key (possible option)
+ -- Quests Menu: F,J, or any other middle key
+
+
+Misc:
