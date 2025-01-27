@@ -11,10 +11,11 @@ Areas:
         -- cultural: pacifist, motto: "don't work too hard", mediator for conflicts, lack of industry (or less of a prominent industry), direct democracy, small population
         -- 
     -- air-based
-       -- culture: 
-       -- constantly moving nomads who help the player when their village is not doing well. They are given 
+       -- culture: care about destiny, world will arrive where it needs to, the outcome is predestined, 
+       -- constantly moving nomads who help the player when their village is not doing well. They are given
        --
-    --
+    -- earth-based
+
     --
 
 
@@ -24,7 +25,7 @@ Player:
 
 
 Characters:
- -- 
+ -- A 
  --
  --
  --
