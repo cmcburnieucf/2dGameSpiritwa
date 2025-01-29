@@ -46,6 +46,7 @@ Spirits:
 Technical:
  -- movement: WASD
     -- implement diagonal movement
+    -- dashing: where the user can move at an increased speed for a short period of time.
  -- Inventory: E key
  -- Map: M key
  -- Buff Up / Use potions: B key
