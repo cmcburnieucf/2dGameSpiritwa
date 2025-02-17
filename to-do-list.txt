@@ -9,7 +9,9 @@ To Do:
       - load player's progress in game
     )
 - Fix Bug: entities keep going out of bounds of the tilemap
-- Fix Bug: player receives a black screen for any other state besides play state.
+- Fix Bug: player receives a black screen for any other state besides play state. 
+    - Suggestions: check UI class, KeyHandler class, Player class.
+- Fix Bug: player's shots do not appear on the screen (an error with the draw function?)
 - Fix Bug: player cannot open chest without some glitch appearing
 - Fix Bug: player stalls for some time at the very beginning before moving
 - Build world map
