@@ -1,8 +1,0 @@
-none true
-grass false
-water true
-dirt false
-tree true
-ocean true
-brick false
-stone_wall true

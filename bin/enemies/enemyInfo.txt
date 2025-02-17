@@ -1,2 +1,0 @@
-Ex 3 4
-ExShooter 6 7
