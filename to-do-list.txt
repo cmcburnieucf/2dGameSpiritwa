@@ -14,6 +14,7 @@ To Do:
 - Fix Bug: player's shots do not appear on the screen (an error with the draw function?)
 - Fix Bug: player cannot open chest without some glitch appearing
 - Fix Bug: player stalls for some time at the very beginning before moving
+- implement mouse events with shooting/attacking
 - Build world map
 - Build maps for each area
 - Build character customization screen with player customizations
